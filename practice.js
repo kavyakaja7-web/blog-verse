@@ -1,5 +1,7 @@
 console.log("hello world,kavya")
 
+const a=5;
+// constant value
 let name ="Dev Astra";
 console.log(name)
 
